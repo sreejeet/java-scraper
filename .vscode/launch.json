@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Scraper",
+            "request": "launch",
+            "mainClass": "core.Scraper",
+            "projectName": "gs-maven"
+        }
+    ]
+}
